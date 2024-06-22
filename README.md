@@ -1,8 +1,13 @@
-# React + Vite
+# React 
+<img width="960" alt="image" src="https://github.com/dikshant-4848/WeatherApp/assets/163756344/fd86972d-b3ba-471f-8761-a125283caa44">
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# WeatherApp By Dikshant Rajput
 
-Currently, two official plugins are available:
+WeatherApp is a simple React application that fetches and displays weather information for a specified city using the OpenWeatherMap API. It features a search box to input the city name and displays the weather data, including an icon representing the weather condition.
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Fetch weather information for any city.
+- Display temperature, humidity, weather condition, and an icon.
+- Responsive design using Material-UI components.
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
