@@ -9,5 +9,4 @@ WeatherApp is a simple React application that fetches and displays weather infor
 - Fetch weather information for any city.
 - Display temperature, humidity, weather condition, and an icon.
 - Responsive design using Material-UI components.
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+
